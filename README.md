@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Anisha
 
 <!--
 **Anisha7861/Anisha7861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I have a background in data analytics and business intelligence, with strong expertise in SQL, Power BI, Tableau, and spreadsheet analysis. I enjoy solving complex problems and turning data into actionable insights. Always up for a challenge, I'm eager to work on outsourcing projects where I can apply my skills to make a positive impact.
 
-Here are some ideas to get you started:
+Fun Facts:
+I love exploring new data visualization techniques and tools.
+Baking and cooking are my hobbies — I find them as fulfilling as data analysis!
+I enjoy working out, from running to weightlifting, keeping a balanced lifestyle.
+Tech Skills:
+SQL
+Power BI
+Tableau
+Spreadsheet Analysis
+Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
